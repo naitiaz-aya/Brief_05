@@ -1,0 +1,11 @@
+body {
+  background-color:#e4efe7;
+}
+.card-body{
+  background-color: #6fcb95b6;
+}
+.all{
+  text-align: center;
+  margin-left: 21%;
+  justify-content: center;
+}

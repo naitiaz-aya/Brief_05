@@ -1,0 +1,19 @@
+h3 {
+  font-size:30px;
+  text-align: center;
+  color: rgb(40, 96, 49);
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  align-items: center;
+  width: 500px;
+}
+.card-body{
+  text-align: center;
+  width: 500px;
+}
+button{
+  width: 20px;
+}

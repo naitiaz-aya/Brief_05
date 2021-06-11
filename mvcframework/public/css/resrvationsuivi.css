@@ -1,0 +1,29 @@
+h4 {
+  font-size:30px;
+  text-align: center;
+  color: rgb(40, 96, 49);
+  margin-top: revert;
+  
+}
+.card{
+  margin-left: 25%;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  align-items: center;
+  background: rgba(51, 85, 66, 0.267);
+  margin-bottom: 15px;
+ 
+}
+.card-body{
+  text-align: center;
+  width: 500px;
+  
+}
+.bouttons{
+  display: inherit;
+  margin-bottom: 10px;
+}
+.bouttons a{
+  margin-left: 10px;
+}

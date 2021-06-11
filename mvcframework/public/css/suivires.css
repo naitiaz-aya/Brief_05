@@ -1,0 +1,17 @@
+body {
+  background-color:#e4efe7;
+}
+h3 {
+  font-size:30px;
+  text-align: center;
+  color: rgb(40, 96, 49);
+}
+.card{
+  align-items: center;
+}
+.card-body{
+  text-align: center;
+  width: 500px;
+ 
+}
+
